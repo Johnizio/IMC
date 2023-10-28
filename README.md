@@ -1,4 +1,3 @@
-Introdução
 Neste relatório descrevo o processo de criação de um programa para calcular o Índice de Massa 
 Corporal (IMC) usando a linguagem Python. O desenvolvimento ocorreu na ferramenta Google Cloud 
 Shell Editor e Visual Studio. O objetivo era criar um programa que pudesse calcular o IMC com base 
